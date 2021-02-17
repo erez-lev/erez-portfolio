@@ -2,7 +2,7 @@ import React from 'react';
 import './Nav.css'
 import Scrollspy from 'react-scrollspy';
 import Pdf from "../assets/docs/Erez\ Lev's\ CV.pdf";
-import { Link, ScrollLink } from 'react-scroll';
+import { Link } from 'react-scroll';
 
 const Nav = () => {
     return (
@@ -13,20 +13,20 @@ const Nav = () => {
                 currentClassName="active-link"
                 offset={-50}
                 >
-                <li id="index" className="active-link">
-                    <Link href="#home" activeClass="active" to="home" spy={true} smooth={true} duration={500}
+                <li className="active-link">
+                    <Link href="#home" activeClass="active" to="home" spy={true} smooth={true} duration={800}
                     offset={-50} >
                     Home
                     </Link>
                     </li>
-                <li id="about">
-                    <Link href="#about-content" to="about" spy={true} smooth={true} duration={500}
+                <li>
+                    <Link href="#about-content" activeClass="active" to="about" spy={true} smooth={true} duration={800}
                     offset={-50} >
                     About
                     </Link>
                     </li>
-                <li id="projects">
-                    <Link href="#projects-content" to="projects" spy={true} smooth={true} duration={500}
+                <li>
+                    <Link href="#projects-content" activeClass="active" to="projects" spy={true} smooth={true} duration={800}
                     offset={-50} >
                     Projects
                     </Link>

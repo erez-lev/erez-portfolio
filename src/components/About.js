@@ -17,16 +17,17 @@ I found sport relaxing and mindset changing. Basically it's an integral part of 
 
 const About = () => {
     return (
+    <Element name="about-content">
         <div id="about-content" className="about">
-            <Element name="about" className="about">
+            
             <h1><strong>About</strong></h1>
             <div>
                 <p className="block-text">{firstParagraph}</p>
                 <p className="block-text">{secondParagrah}</p>
                 <p className="block-text">{thirdParagraph}</p>
             </div>
-            </Element>
         </div>
+    </Element>    
     );
 }
 

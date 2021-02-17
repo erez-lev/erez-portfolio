@@ -12,7 +12,7 @@ const Project = ({ title, text, icons }) => {
                 <h3>{title}</h3>
                 <p className="block-text">{text}</p>
                 <ul className="icons">
-                    <li><a href={githubLink} target="_blank"><FontAwesomeIcon icon={faGithub} /></a></li>
+                    <li><a href={githubLink} target="_blank"><FontAwesomeIcon icon={faGithub} size /></a></li>
                 </ul>
         </div>
     ) :

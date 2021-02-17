@@ -34,13 +34,11 @@
 }
 
 .icons a {
-    padding: 7px;
+    padding: 1px;
     color: #0b2027;
-    border-style: solid;
     border-radius: 200px;
-    border-width: 2px;
-    border-color: #a44a3f;
     background-color: #a44a3f;
+    font-size: 1.5em;
 }
 
 .block-text {
@@ -49,6 +47,7 @@
     height: fit-content;
     line-height: 1.5em;
     text-align: start;
+    padding: 10px;
 }
 
 @media only screen and (min-width: 370px) and (max-width: 480px) {
@@ -82,7 +81,7 @@
     display: flex;
     list-style: none;
     justify-content: space-around;
-    padding: 5px;
+    padding: 10px;
     margin-top: auto;
     margin-bottom: 0;
 }

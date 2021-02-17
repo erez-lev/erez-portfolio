@@ -16,12 +16,12 @@ const Projects = ({ projects }) => {
 
     return (
         // <!-- PROJECTS -->
-        <div id="projects-content" className="projects">
-            <Element name="projects" className="projects">
-                <h1><strong>My Recent Projects</strong></h1>
-                {projectArray}
-            </Element>
-        </div>
+        <Element name="projects">
+            <div id="projects-content" className="projects">
+                    <h1><strong>My Recent Projects</strong></h1>
+                    {projectArray}
+            </div>
+        </Element>
     );
 }
 

@@ -3,11 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './container/App';
 import reportWebVitals from './reportWebVitals';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 ReactDOM.render(
   <React.StrictMode>
-    <FontAwesomeIcon icon={["fab", "github"]} />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
