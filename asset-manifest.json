@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/erez-portfolio/static/css/main.91f27a6c.chunk.css",
-    "main.js": "/erez-portfolio/static/js/main.eeed372d.chunk.js",
-    "main.js.map": "/erez-portfolio/static/js/main.eeed372d.chunk.js.map",
-    "runtime-main.js": "/erez-portfolio/static/js/runtime-main.549f49c1.js",
-    "runtime-main.js.map": "/erez-portfolio/static/js/runtime-main.549f49c1.js.map",
-    "static/js/2.51b2a3fb.chunk.js": "/erez-portfolio/static/js/2.51b2a3fb.chunk.js",
-    "static/js/2.51b2a3fb.chunk.js.map": "/erez-portfolio/static/js/2.51b2a3fb.chunk.js.map",
-    "static/js/3.cf9f2edc.chunk.js": "/erez-portfolio/static/js/3.cf9f2edc.chunk.js",
-    "static/js/3.cf9f2edc.chunk.js.map": "/erez-portfolio/static/js/3.cf9f2edc.chunk.js.map",
-    "index.html": "/erez-portfolio/index.html",
-    "static/css/main.91f27a6c.chunk.css.map": "/erez-portfolio/static/css/main.91f27a6c.chunk.css.map",
-    "static/js/2.51b2a3fb.chunk.js.LICENSE.txt": "/erez-portfolio/static/js/2.51b2a3fb.chunk.js.LICENSE.txt",
-    "static/media/Erez Lev's CV.b0f250ae.pdf": "/erez-portfolio/static/media/Erez Lev's CV.b0f250ae.pdf",
-    "static/media/profile_picture.228a008c.jpg": "/erez-portfolio/static/media/profile_picture.228a008c.jpg"
+    "main.css": "/static/css/main.8e3ddeb5.chunk.css",
+    "main.js": "/static/js/main.eeed372d.chunk.js",
+    "main.js.map": "/static/js/main.eeed372d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a905c41c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a905c41c.js.map",
+    "static/js/2.51b2a3fb.chunk.js": "/static/js/2.51b2a3fb.chunk.js",
+    "static/js/2.51b2a3fb.chunk.js.map": "/static/js/2.51b2a3fb.chunk.js.map",
+    "static/js/3.cf9f2edc.chunk.js": "/static/js/3.cf9f2edc.chunk.js",
+    "static/js/3.cf9f2edc.chunk.js.map": "/static/js/3.cf9f2edc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8e3ddeb5.chunk.css.map": "/static/css/main.8e3ddeb5.chunk.css.map",
+    "static/js/2.51b2a3fb.chunk.js.LICENSE.txt": "/static/js/2.51b2a3fb.chunk.js.LICENSE.txt",
+    "static/media/Erez Lev's CV.b0f250ae.pdf": "/static/media/Erez Lev's CV.b0f250ae.pdf",
+    "static/media/profile_picture.228a008c.jpg": "/static/media/profile_picture.228a008c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.549f49c1.js",
+    "static/js/runtime-main.a905c41c.js",
     "static/js/2.51b2a3fb.chunk.js",
-    "static/css/main.91f27a6c.chunk.css",
+    "static/css/main.8e3ddeb5.chunk.css",
     "static/js/main.eeed372d.chunk.js"
   ]
 }
