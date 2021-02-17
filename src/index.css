@@ -1,10 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Cuprum&display=swap");
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
+    width: 100%;
+    background-blend-mode: lighten;
+    background-color: #cfd7c7;
+    background-size: cover;
+    background-position: center;
+    background-clip: padding-box;
+    font-family: 'Cuprum', sans-serif;
+    /* scroll-behavior: smooth; */
+    margin: 0;
 }
 
 code {

@@ -1,0 +1,68 @@
+/* HEADER */
+header {
+    top: 0;
+}
+
+/* COVER */
+header {
+    background-color: #cfd7c7; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+header h1, h2 {
+    text-align: center;
+    color: #0b2027;
+}
+
+.header-headline {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.header-cover {
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+    margin-top: 0px;
+}
+
+.header-cover img {
+    width: 175px;
+    height: 170px;
+    margin: auto 0;
+    padding: 0px;
+    border-radius: 300px;
+    border-color: #0b2027;
+    border-width: 3px;
+    border-style: solid;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 600px) {
+    .header-cover {
+       height: 20vh; 
+    }
+    
+    .header-cover img {
+        width: auto;
+        height: 5rem;
+    }
+}
+
+#hr-style {
+    width: 20vw;
+    margin-bottom: 25px;
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px black;
+}
+
+.buffer {
+    height: 35px;
+}
