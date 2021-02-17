@@ -9,7 +9,7 @@ const Nav = () => {
         <nav className="header-nav sticky">
             {/* <!-- NAV --> */}
             <Scrollspy id="mainNav" className="main-nav"
-                items={ ['home', 'about-content', 'projects-content', ''] } 
+                items={ ['home', 'about-content', 'projects-content'] } 
                 currentClassName="active-link"
                 offset={-50}
                 >
@@ -31,7 +31,7 @@ const Nav = () => {
                     Projects
                     </Link>
                     </li>
-                <li id="resume"><a href={Pdf} target='_blank'>Resume</a></li> 
+                <li id="resume"><a href={Pdf} target='_blank'>{console.log(Pdf)}Resume</a></li> 
             </Scrollspy>
         </nav>
     );
