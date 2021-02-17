@@ -20,13 +20,13 @@ const Nav = () => {
                     </Link>
                     </li>
                 <li id="about">
-                    <Link href="#about-content" activeClass="active" to="about" spy={true} smooth={true} duration={500}
+                    <Link href="#about-content" to="about" spy={true} smooth={true} duration={500}
                     offset={-50} >
                     About
                     </Link>
                     </li>
                 <li id="projects">
-                    <Link href="#projects-content" activeClass="active" to="projects" spy={true} smooth={true} duration={500}
+                    <Link href="#projects-content" to="projects" spy={true} smooth={true} duration={500}
                     offset={-50} >
                     Projects
                     </Link>
