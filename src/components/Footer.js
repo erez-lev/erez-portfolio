@@ -5,6 +5,7 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 import './Footer.css'
 
 const Footer = () => {
+    const email = "erezlev1994@gmail.com";
     return (
         <footer>
             <nav className="body-nav">
@@ -14,7 +15,7 @@ const Footer = () => {
                 </ul>
             </nav>
             <p>Made by Erez Lev</p>
-            <p>Contact me:  <a href="erezlev1994@gmail.com">erezlev1994@gmail.com</a></p>
+            <p>Contact me:  <a href={`mailto: + ${email}`}>erezlev1994@gmail.com</a></p>
         </footer>
     );
 }
