@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/erez-portfolio/static/css/main.4a31d370.chunk.css",
+    "main.css": "/erez-portfolio/static/css/main.99137b15.chunk.css",
     "main.js": "/erez-portfolio/static/js/main.f9085947.chunk.js",
     "main.js.map": "/erez-portfolio/static/js/main.f9085947.chunk.js.map",
     "runtime-main.js": "/erez-portfolio/static/js/runtime-main.549f49c1.js",
@@ -10,7 +10,7 @@
     "static/js/3.cf9f2edc.chunk.js": "/erez-portfolio/static/js/3.cf9f2edc.chunk.js",
     "static/js/3.cf9f2edc.chunk.js.map": "/erez-portfolio/static/js/3.cf9f2edc.chunk.js.map",
     "index.html": "/erez-portfolio/index.html",
-    "static/css/main.4a31d370.chunk.css.map": "/erez-portfolio/static/css/main.4a31d370.chunk.css.map",
+    "static/css/main.99137b15.chunk.css.map": "/erez-portfolio/static/css/main.99137b15.chunk.css.map",
     "static/js/2.a6acad88.chunk.js.LICENSE.txt": "/erez-portfolio/static/js/2.a6acad88.chunk.js.LICENSE.txt",
     "static/media/Erez Lev's CV.13eb93a4.pdf": "/erez-portfolio/static/media/Erez Lev's CV.13eb93a4.pdf",
     "static/media/profile_picture.228a008c.jpg": "/erez-portfolio/static/media/profile_picture.228a008c.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.549f49c1.js",
     "static/js/2.a6acad88.chunk.js",
-    "static/css/main.4a31d370.chunk.css",
+    "static/css/main.99137b15.chunk.css",
     "static/js/main.f9085947.chunk.js"
   ]
 }
