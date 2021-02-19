@@ -19,7 +19,7 @@ const About = () => {
                 <p className="block-text">{aboutContent.firstParagraph}</p>
                 <p className="block-text">{aboutContent.secondParagrah}</p>
                 <p className="block-text">{aboutContent.thirdParagraph}</p>
-                <button onClick={openResume} className="view-resume">View resume</button>
+                <button onClick={openResume} className="view-resume"><strong>View resume</strong></button>
             </div>
         </div>
     </Element>    

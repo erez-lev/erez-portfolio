@@ -1,7 +1,17 @@
 /* HEADER */
 header {
     top: 0;
+    background: linear-gradient(360deg, #cfd7c7 0%, #0b2027 100%);
 }
+
+.particles {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+  }
 
 /* COVER */
 header {
@@ -14,7 +24,7 @@ header {
 
 header h1, h2 {
     text-align: center;
-    color: #0b2027;
+    color: #cfd7c7;
 }
 
 .header-headline {
