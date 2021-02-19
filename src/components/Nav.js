@@ -31,8 +31,10 @@ const Nav = () => {
                     Projects
                     </Link>
                     </li>
-                <li id="resume"><a href={Pdf} target='_blank'>{console.log(Pdf)}Resume</a></li> 
             </Scrollspy>
+            
+            {/* <a href={Pdf} target='_blank'>{console.log(Pdf)}Resume</a> */}
+           
         </nav>
     );
 }
