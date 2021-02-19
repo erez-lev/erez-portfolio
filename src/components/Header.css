@@ -1,7 +1,6 @@
 /* HEADER */
 header {
     top: 0;
-    background: linear-gradient(360deg, #cfd7c7 0%, #0b2027 100%);
 }
 
 .particles {
@@ -15,7 +14,7 @@ header {
 
 /* COVER */
 header {
-    background-color: #cfd7c7; 
+    background-color: transparent; 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

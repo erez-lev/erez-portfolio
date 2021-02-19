@@ -1,16 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Cuprum&display=swap");
 
 body {
-  margin: 0;
+    margin: 0;
     width: 100%;
-    background-blend-mode: lighten;
-    background-color: #cfd7c7;
-    background-size: cover;
-    background-position: center;
-    background-clip: padding-box;
+    background: linear-gradient(360deg, #cfd7c7 40%, #0b2027 120%);
     font-family: 'Cuprum', sans-serif;
     /* scroll-behavior: smooth; */
-    margin: 0;
 }
 
 code {
