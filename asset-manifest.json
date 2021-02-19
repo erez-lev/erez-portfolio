@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/erez-portfolio/static/css/main.502abe0c.chunk.css",
-    "main.js": "/erez-portfolio/static/js/main.ae6dbdfb.chunk.js",
-    "main.js.map": "/erez-portfolio/static/js/main.ae6dbdfb.chunk.js.map",
-    "runtime-main.js": "/erez-portfolio/static/js/runtime-main.549f49c1.js",
-    "runtime-main.js.map": "/erez-portfolio/static/js/runtime-main.549f49c1.js.map",
-    "static/js/2.a6acad88.chunk.js": "/erez-portfolio/static/js/2.a6acad88.chunk.js",
-    "static/js/2.a6acad88.chunk.js.map": "/erez-portfolio/static/js/2.a6acad88.chunk.js.map",
-    "static/js/3.cf9f2edc.chunk.js": "/erez-portfolio/static/js/3.cf9f2edc.chunk.js",
-    "static/js/3.cf9f2edc.chunk.js.map": "/erez-portfolio/static/js/3.cf9f2edc.chunk.js.map",
+    "main.css": "/erez-portfolio/static/css/main.615357a3.chunk.css",
+    "main.js": "/erez-portfolio/static/js/main.faf3f145.chunk.js",
+    "main.js.map": "/erez-portfolio/static/js/main.faf3f145.chunk.js.map",
+    "runtime-main.js": "/erez-portfolio/static/js/runtime-main.36e81fcc.js",
+    "runtime-main.js.map": "/erez-portfolio/static/js/runtime-main.36e81fcc.js.map",
+    "static/js/2.65163cf9.chunk.js": "/erez-portfolio/static/js/2.65163cf9.chunk.js",
+    "static/js/2.65163cf9.chunk.js.map": "/erez-portfolio/static/js/2.65163cf9.chunk.js.map",
+    "static/js/3.0e402eea.chunk.js": "/erez-portfolio/static/js/3.0e402eea.chunk.js",
+    "static/js/3.0e402eea.chunk.js.map": "/erez-portfolio/static/js/3.0e402eea.chunk.js.map",
     "index.html": "/erez-portfolio/index.html",
-    "static/css/main.502abe0c.chunk.css.map": "/erez-portfolio/static/css/main.502abe0c.chunk.css.map",
-    "static/js/2.a6acad88.chunk.js.LICENSE.txt": "/erez-portfolio/static/js/2.a6acad88.chunk.js.LICENSE.txt",
+    "static/css/main.615357a3.chunk.css.map": "/erez-portfolio/static/css/main.615357a3.chunk.css.map",
+    "static/js/2.65163cf9.chunk.js.LICENSE.txt": "/erez-portfolio/static/js/2.65163cf9.chunk.js.LICENSE.txt",
     "static/media/Erez Lev's CV.13eb93a4.pdf": "/erez-portfolio/static/media/Erez Lev's CV.13eb93a4.pdf",
     "static/media/profile_picture.228a008c.jpg": "/erez-portfolio/static/media/profile_picture.228a008c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.549f49c1.js",
-    "static/js/2.a6acad88.chunk.js",
-    "static/css/main.502abe0c.chunk.css",
-    "static/js/main.ae6dbdfb.chunk.js"
+    "static/js/runtime-main.36e81fcc.js",
+    "static/js/2.65163cf9.chunk.js",
+    "static/css/main.615357a3.chunk.css",
+    "static/js/main.faf3f145.chunk.js"
   ]
 }
