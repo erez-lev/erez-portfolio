@@ -43,8 +43,8 @@ header h1, h2 {
 }
 
 .header-cover img {
-    width: 230px;
-    height: 220px;
+    width: 210px;
+    height: 200px;
     margin: auto 0;
     padding: 0px;
     border-radius: 200px;
@@ -53,9 +53,9 @@ header h1, h2 {
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 600px) {
-    .header-cover img {
-        width: 115;
-        height: 105;
+    img {
+        width: 105;
+        height: 95;
     }
 }
 

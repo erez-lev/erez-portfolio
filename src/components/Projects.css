@@ -10,12 +10,13 @@
     text-align: center;
     grid-row: 1fr;
     padding: 10px;
+    color: #cfd7cf;
 }
 
 .box {
     padding: 10px;
     margin: 10px auto;
-    color: #0b2027;
+    color: #cfd7cf;
     display: flex;
     flex-direction: column;
     /* background:
@@ -28,11 +29,11 @@
     background-color: transparent;
     background-size: 20px 20px;
     box-shadow: #a44a3f;
-    box-shadow: 5px 10px 20px 10px #0b2027;
+    box-shadow: 1px 1px 5px 5px #cfd7cf;
 }
 
 .box:hover {
-    box-shadow: 5px 10px 10px 5px #0b2027;
+    box-shadow: 1px 1px 5px 6px #cfd7cf;
 }
 
 .box h3 {

@@ -3,7 +3,8 @@
 body {
     margin: 0;
     width: 100%;
-    background: linear-gradient(360deg, #cfd7c7 40%, #0b2027 120%);
+    /* background: linear-gradient(360deg, #cfd7c7 40%, #0b2027 120%); */
+    background: #0b2027;
     font-family: 'Cuprum', sans-serif;
     /* scroll-behavior: smooth; */
 }

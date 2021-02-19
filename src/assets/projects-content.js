@@ -18,8 +18,7 @@ export const projects = [
         We used OOP prinicles such as Polymorphism - which was one of the main subject of this project,
         as long with Aggregation and Encupsulation.
         Furthermore, we used Design Patterns concepts such as Bridge and Abstract Factory.
-        In this project I've learned the most, as it was covered those principles and was big project.
-        My partner for this project was Idan.`,
+        In this project I've learned the most, as it was covered those principles and was big project.`,
         icons: [`https://github.com/erezlev13/Garage-Managment-System`]
     },
 
@@ -29,8 +28,7 @@ export const projects = [
         implementing HTTP and TCP protocols, using C. It was one of my comprehensive projects, which I've learned 
         basic concepts in Computers Network. With this project, I understood more about Computer Netowrk in general,
         and about HTTP/TCP in particular.
-        Actually, it was one of the funnest project I did, and I figured out why the Internet is intresting.
-        My partner for this project was Lior.`,
+        Actually, it was one of the funnest project I did, and I figured out why the Internet is intresting.`,
         icons: [`https://github.com/erezlev13/WebServer`]
     },
 

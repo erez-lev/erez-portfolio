@@ -1,5 +1,5 @@
 .header-nav {
-    background-color: #0b2027;
+    background-color: #cfd7cf;
 }
 
 /* MAIN NAV */
@@ -36,14 +36,11 @@
 }
 
 .main-nav a {
-    color: #cfd7c7;
+    color: #0b2027;
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: capitalize;
     letter-spacing: 1px;
-}
-
-.main-nav a:hover {
-    box-shadow: 0px 10px 5px 0px black;
+    font-size: 1.2em;
 }
 
 .active-link {
