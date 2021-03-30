@@ -1,7 +1,6 @@
 import React from 'react';
 import './Nav.css'
 import Scrollspy from 'react-scrollspy';
-import Pdf from "../assets/docs/Erez\ Lev's\ CV.pdf";
 import { Link } from 'react-scroll';
 
 const Nav = () => {
@@ -32,9 +31,6 @@ const Nav = () => {
                     </Link>
                     </li>
             </Scrollspy>
-            
-            {/* <a href={Pdf} target='_blank'>{console.log(Pdf)}Resume</a> */}
-           
         </nav>
     );
 }
