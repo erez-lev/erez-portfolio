@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import { Element } from 'react-scroll';
-import Pdf from "../assets/docs/Erez\ Lev's\ CV.pdf";
+import Pdf from "../assets/docs/Erez_Lev_Resume.pdf";
 import { aboutContent } from '../assets/about-content';
 
 const About = () => {
